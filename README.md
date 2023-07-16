@@ -14,10 +14,17 @@ With advances in Machine Learning, we are now able to build and deploy algorithm
   - Improvement of model
 
 - Models Used
-  - Linear Regression
-  - Random Forest Regressor
-  - OneHotEncoder
-  - Scikit-learn's ColumnTransform
+  - SVC
+  - KNeighborsClassifier
+  - MultinomialNB
+  - DecisionTreeClassifier
+  - LogisticRegression
+  - RandomForestClassifier
+  - AdaBoostClassifier
+  - BaggingClassifier
+  - ExtraTreesClassifier
+  - GradientBoostingClassifier
+  - XGBClassifier
  
 ## Dataset
 - Download the dataset for custom training
